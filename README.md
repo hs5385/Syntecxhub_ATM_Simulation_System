@@ -23,7 +23,7 @@ A console-based Automated Teller Machine (ATM) simulation written in Java. This 
 
 ### Using an IDE (e.g., IntelliJ IDEA)
 1. Open IntelliJ IDEA.
-2. Select "Open" and navigate to the project directory `C:\yourpath\ATMsim`.
+2. Select "Open" and navigate to the project directory `X:\yourpath\ATMsim`.
 3. Ensure the project structure is correctly recognized (Java source files are in `src/main/java/com/atmsim`).
 4. Locate the `Main.java` file and run it.
 
